@@ -2,7 +2,7 @@
 
 Team in different countries? Everybody sees the admin in their own time. Magento 2 uses a single time zone, the one configured for the store. This module adds a Timezone field to the admin user and applies it to the whole backend while that user is logged in.
 
-**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.4 · Any frontend theme (admin-only)
+**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.5 · Any frontend theme (admin-only)
 **License:** free · **Current version:** see [Releases](../../releases)
 
 ## Features
@@ -15,7 +15,7 @@ Team in different countries? Everybody sees the admin in their own time. Magento
 ## Requirements
 
 - Magento Open Source / Adobe Commerce 2.4.4+ or Mage-OS
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 - Native modules: `Magento_User`, `Magento_Backend`
 - Package: `threecommerce/m2-base` (installed automatically by Composer)
 
